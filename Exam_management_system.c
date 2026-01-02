@@ -21,7 +21,7 @@ int main() {
 
     do {
         system("cls");
-        printf("--- Exam Management System ---\n");
+        printf("--- Exam Result Management System ---\n");
         printf("1. Add Student\n");
         printf("2. Add Marks\n");
         printf("3. Show All Students\n");
