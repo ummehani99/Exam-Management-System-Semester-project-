@@ -1,9 +1,9 @@
-# Exam-Management-System-Semester-project-
+# Exam-Result-Management-System-Semester-project-
 C-based Exam Management System for Sindh Madressatul Islam University: manage students, marks, grades, and toppers
-# Exam Management System
+# Exam Result Management System
 
 ## Project Overview
-This project is an *Exam Management System* developed using the *C programming language*.  
+This project is an *Exam Result Management System* developed using the *C programming language*.  
 It is designed to manage student examination records in a structured and efficient manner.  
 The system helps in storing, calculating, and displaying student academic data.
 
@@ -34,7 +34,7 @@ In this project, several core concepts of *Programming Fundamentals* are applied
 ---
 
 ## Functionalities of the System
-Using this Exam Management System, the user can:
+Using this Exam Result Management System, the user can:
 
 - Add student records (roll number and name)
 - Enter marks of five subjects for each student
