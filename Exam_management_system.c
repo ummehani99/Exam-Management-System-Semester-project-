@@ -21,18 +21,6 @@ int main() {
 
     do {
         system("cls");
-
-        printf("\t\t--Sindh Madressatul Islam University--\n");
-        printf("\t\t\t--1st Semester Project--\n");
-        printf("--Programming Fundamental (PF)--\n");
-        printf("Prepared by:\n");
-        printf("Umme Hani (BSE-25F-048)\n");
-        printf("Namira Syed (BSE-25F-078)\n");
-        printf("Haram Shah (BSE-25F-082)\n");
-        printf("Hafiz Muhammad Momin (BSE-25F-093)\n");
-        printf("Prepared for:\n");
-        printf("Miss Iqra\n\n");
-
         printf("--- Exam Management System ---\n");
         printf("1. Add Student\n");
         printf("2. Add Marks\n");
