@@ -49,11 +49,18 @@ int main() {
 void addStudent() {
     system("cls");
 
+    if (totalStudents >= MAX) {
+        printf("Student limit reached!\n");
+        return;
+    }
+
     printf("Enter Roll No: ");
     scanf("%d", &rollNo[totalStudents]);
+    getchar();   // buffer clear
 
     printf("Enter Name: ");
-    scanf("%s", &name[totalStudents]);
+    fgets(name[totalStudents], 30, stdin);
+
 
     for (int i = 0; i < SUBJECTS; i++)
         marks[totalStudents][i] = -1;
